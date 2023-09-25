@@ -1,0 +1,277 @@
+.data-type-values {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.data-type-values .dorem-ipsum-dolor {
+  position: relative;
+}
+
+.data-type-values .group {
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.data-type-values .overlap-group-2 {
+  border-radius: 56px;
+  height: 96px;
+  position: relative;
+}
+
+.data-type-values .rectangle {
+  background-color: #000000e6;
+  border-radius: 56px;
+  height: 96px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.data-type-values .vector {
+  height: 35px;
+  left: 37px;
+  position: absolute;
+  top: 30px;
+  width: 29px;
+}
+
+.data-type-values .vector-2 {
+  height: 35px;
+  left: -20218px;
+  position: absolute;
+  top: 3727px;
+  width: 29px;
+}
+
+.data-type-values.value-number {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-dropdown {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-multichoice {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-yes-no {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-paragrapgh {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: flex;
+  padding: 16px;
+  width: 626px;
+}
+
+.data-type-values.value-value-10 {
+  background-color: #f7f9ff;
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  height: 255px;
+  width: 400px;
+}
+
+.data-type-values.value-video {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+}
+
+.data-type-values.value-date {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-file-upload {
+  border-radius: 16px;
+  display: inline-flex;
+  padding: 8px 16px;
+}
+
+.data-type-values.value-short-answer {
+  background-color: #f7f9ff;
+  border-radius: 16px;
+  display: flex;
+  padding: 16px;
+  width: 626px;
+}
+
+.data-type-values.value-number .dorem-ipsum-dolor {
+  color: #206c83;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-dropdown .dorem-ipsum-dolor {
+  color: #206c83;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-multichoice .dorem-ipsum-dolor {
+  color: #206c83;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-yes-no .dorem-ipsum-dolor {
+  color: #206c83;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-paragrapgh .dorem-ipsum-dolor {
+  color: #206c83;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+}
+
+.data-type-values.value-value-10 .dorem-ipsum-dolor {
+  background-image: url(https://c.animaapp.com/NcdoIzsj/img/vdo-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 255px;
+  overflow: hidden;
+  width: 142.72px;
+}
+
+.data-type-values.value-video .dorem-ipsum-dolor {
+  background-image: url(https://c.animaapp.com/NcdoIzsj/img/vdo-4@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0px 0px 16px 16px;
+  height: 225px;
+  overflow: hidden;
+  width: 400px;
+}
+
+.data-type-values.value-date .dorem-ipsum-dolor {
+  color: #206c83;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-file-upload .dorem-ipsum-dolor {
+  color: #1d4ed8;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: fit-content;
+}
+
+.data-type-values.value-short-answer .dorem-ipsum-dolor {
+  color: #206c83;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+}
+
+.data-type-values.value-number .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-dropdown .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-multichoice .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-yes-no .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-paragrapgh .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-value-10 .group {
+  left: 192px;
+  top: 87px;
+}
+
+.data-type-values.value-video .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-date .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-file-upload .group {
+  left: 152px;
+  top: 64px;
+}
+
+.data-type-values.value-short-answer .group {
+  left: 152px;
+  top: 64px;
+}

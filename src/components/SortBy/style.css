@@ -1,0 +1,42 @@
+.sort-by {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #eaeaea;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 48px;
+  padding: 16px;
+  position: relative;
+  width: 207px;
+}
+
+.sort-by .frame-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  margin-bottom: -3px;
+  margin-top: -3px;
+  position: relative;
+}
+
+.sort-by .edit-sort-ascending {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.sort-by .text-wrapper-21 {
+  color: #0a0a0a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

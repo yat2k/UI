@@ -1,0 +1,111 @@
+.tabs {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.tabs .frame-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 110px;
+}
+
+.tabs .tab-n {
+  color: #0a0a0a;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  text-align: center;
+}
+
+.tabs .frame-8 {
+  align-items: flex-start;
+  background-color: #e6e8ef;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1px 6px;
+  position: relative;
+}
+
+.tabs .text-wrapper-14 {
+  color: #21205b;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tabs .tab-n-2 {
+  color: #0a0a0a;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.tabs .tab-name-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.tabs .tab-name {
+  color: #0557e5;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tabs .line {
+  align-self: stretch;
+  height: 4px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  position: relative;
+  width: 100%;
+}
+
+.tabs.status-active {
+  justify-content: center;
+}
+
+.tabs.status-default-w-number {
+  height: 30px;
+}
+
+.tabs.status-default-WO-number {
+  height: 30px;
+}

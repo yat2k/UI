@@ -1,0 +1,51 @@
+.checkbox {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.checkbox .checkbox-active {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.checkbox .plate {
+  border: 1px solid;
+  border-color: #8391a6;
+  border-radius: 2px;
+  height: 16px;
+}
+
+.checkbox .check {
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+
+.checkbox .div {
+  color: #0a0a0a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.checkbox .inactive {
+  background-color: #ffffff;
+}
+
+.checkbox .active {
+  background-color: #0557e5;
+  border: 1px solid;
+  border-color: #0557e5;
+  border-radius: 2px;
+}

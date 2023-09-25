@@ -1,0 +1,27 @@
+.candidate-tag {
+  align-items: center;
+  background-color: #f5f7ff;
+  border-radius: 10px;
+  display: inline-flex;
+  gap: 8px;
+  height: 18px;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.candidate-tag .top-candidate {
+  color: #808da2;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.candidate-tag .close {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}

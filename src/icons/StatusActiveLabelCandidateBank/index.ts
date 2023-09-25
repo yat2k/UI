@@ -1,0 +1,1 @@
+export { StatusActiveLabelCandidateBank } from "./StatusActiveLabelCandidateBank";

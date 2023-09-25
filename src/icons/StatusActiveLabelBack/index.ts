@@ -1,0 +1,1 @@
+export { StatusActiveLabelBack } from "./StatusActiveLabelBack";

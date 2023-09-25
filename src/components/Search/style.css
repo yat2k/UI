@@ -1,0 +1,53 @@
+.search {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dde2e4;
+  border-radius: 8px;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  padding: 16px;
+  position: relative;
+  width: 680px;
+}
+
+.search .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  margin-bottom: -7px;
+  margin-top: -7px;
+  position: relative;
+}
+
+.search .interface-search {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.search .filter-by-name-edu {
+  background: transparent;
+  border: none;
+  color: #9aa6ac;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.search .warning-circle {
+  height: 20px;
+  margin-bottom: -6px;
+  margin-top: -6px;
+  position: relative;
+  width: 20px;
+}

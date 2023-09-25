@@ -1,0 +1,72 @@
+.questions {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 726px;
+}
+
+.questions .data-types-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  padding: 44px 4px 4px !important;
+}
+
+.questions .q {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.questions .jni {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.questions .line-2 {
+  align-self: stretch;
+  height: 1px;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.questions .text-wrapper-22 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.questions .data-type-values-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.questions .m-choice {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.questions .data-type-values-2 {
+  flex: 0 0 auto !important;
+}

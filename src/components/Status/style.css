@@ -1,0 +1,51 @@
+.status {
+  align-items: center;
+  border: 1px solid;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 4px;
+  height: 16px;
+  justify-content: center;
+  padding: 2px 16px;
+  position: relative;
+}
+
+.status .active-2 {
+  font-family: "Poppins", Helvetica;
+  font-size: 9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: -4px;
+  margin-top: -6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.status.status-0-active {
+  background-color: #daf5d2;
+  border-color: #9cdb89;
+}
+
+.status.status-0-disqualify {
+  background-color: #ffecea;
+  border-color: #fea095;
+}
+
+.status.status-0-status-3 {
+  background-color: #fffaf0;
+  border-color: #ffd591;
+}
+
+.status.status-0-active .active-2 {
+  color: #077b2e;
+}
+
+.status.status-0-disqualify .active-2 {
+  color: #fc402b;
+}
+
+.status.status-0-status-3 .active-2 {
+  color: #fa8c16;
+}

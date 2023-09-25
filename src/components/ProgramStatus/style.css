@@ -1,0 +1,69 @@
+.program-status {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 422px;
+}
+
+.program-status .tag-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.program-status .frame-14 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.program-status .frame-15 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.program-status .frame-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.program-status .misk-traineeship {
+  color: #0a0a0a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.program-status .status-instance {
+  flex: 0 0 auto !important;
+}
+
+.program-status .text-wrapper-23 {
+  color: #0a0a0a;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}

@@ -1,0 +1,29 @@
+.PN {
+  border-radius: 8px;
+  height: 48px;
+  overflow: hidden;
+  width: 48px;
+}
+
+.PN .overlap-group {
+  background-color: #f4f6fa;
+  border-radius: 16px;
+  height: 32px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 32px;
+}
+
+.PN .text-wrapper {
+  color: #1d4ed8;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}

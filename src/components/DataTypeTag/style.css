@@ -1,0 +1,94 @@
+.data-type-tag {
+  align-items: center;
+  border-radius: 8px 8px 0px 0px;
+  display: inline-flex;
+  gap: 10px;
+  height: 23px;
+  justify-content: center;
+  padding: 16px 10px;
+  position: relative;
+}
+
+.data-type-tag .paragraph {
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -11px;
+  margin-top: -13px;
+  position: relative;
+  width: fit-content;
+}
+
+.data-type-tag.type-2-number {
+  background-color: #fff6f6;
+}
+
+.data-type-tag.type-2-variant-2 {
+  background-color: #fffae4;
+}
+
+.data-type-tag.type-2-variant-4 {
+  background-color: #f2fbff;
+}
+
+.data-type-tag.type-2-default {
+  background-color: #f7ecff;
+}
+
+.data-type-tag.type-2-date {
+  background-color: #fff4ef;
+}
+
+.data-type-tag.type-2-file-upload {
+  background-color: #ecfffd;
+}
+
+.data-type-tag.type-2-variant-3 {
+  background-color: #fff5f5;
+}
+
+.data-type-tag.type-2-variant-9 {
+  background-color: #eef2ff;
+}
+
+.data-type-tag.type-2-variant-5 {
+  background-color: #f0ffeb;
+}
+
+.data-type-tag.type-2-number .paragraph {
+  color: #e48a8f;
+}
+
+.data-type-tag.type-2-variant-2 .paragraph {
+  color: #f1cb04;
+}
+
+.data-type-tag.type-2-variant-4 .paragraph {
+  color: #81e0ff;
+}
+
+.data-type-tag.type-2-default .paragraph {
+  color: #d9a5ff;
+}
+
+.data-type-tag.type-2-date .paragraph {
+  color: #fbab7d;
+}
+
+.data-type-tag.type-2-file-upload .paragraph {
+  color: #4dcdc3;
+}
+
+.data-type-tag.type-2-variant-3 .paragraph {
+  color: #ffafaf;
+}
+
+.data-type-tag.type-2-variant-9 .paragraph {
+  color: #9eb7ff;
+}
+
+.data-type-tag.type-2-variant-5 .paragraph {
+  color: #8cb87f;
+}

@@ -1,0 +1,1 @@
+export { StatusDefaultLabelDashboard } from "./StatusDefaultLabelDashboard";
